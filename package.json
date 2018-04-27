@@ -1,0 +1,22 @@
+{
+    "name": "horla-light-theme",
+    "displayName": "Horla Light Theme",
+    "description": "A light theme",
+    "version": "0.0.1",
+    "publisher": "Horla",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Horla",
+                "uiTheme": "vs",
+                "path": "./themes/Horla-color-theme.json"
+            }
+        ]
+    }
+}
