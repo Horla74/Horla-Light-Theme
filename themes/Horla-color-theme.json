@@ -885,6 +885,7 @@
 		"editorLineNumber.foreground": "#9DA39A",
 		"editorCursor.foreground": "#007ACC",
 		"editor.findMatchBackground": "#FFBC5D",
-		"editor.findMatchHighlightBackground": "#FFE9A6"
+		"editor.findMatchHighlightBackground": "#FFE9A6",
+		"terminal.ansiWhite": "#E0E0E0"
 	}
 }
