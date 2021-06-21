@@ -879,6 +879,7 @@
 		"editor.selectionBackground": "#BFDBFE",
 		"editor.selectionHighlightBackground": "#E0E0E0",
 		"editorSuggestWidget.selectedBackground": "#98d4fc",
+                "quickInputList.focusBackground": "#98d4fc",
 		"panel.background": "#F0F0F0",
 		"sideBar.background": "#F0F0F0",
 		"activityBar.background": "#F0F0F0",
